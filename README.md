@@ -16,9 +16,20 @@
 
 ## 📌 Featured Projects
 
-### 🔗 [Job Portal System](https://github.com/rahulsingh98/job-portal)
-> A full-stack job portal using Spring Boot, JPA, JWT, and Thymeleaf.  
-Features: Login/Auth, Job Postings, Admin Panel.
+### 🔗 [ Spring Boot Todo App](https://github.com/Jeetrajput001/springboot-todo-app)
+> A responsive web-based Todo List application built using Spring Boot, Thymeleaf, and MySQL.
+
+Key Features:
+
+✅ Add, update, and delete tasks
+
+🔁 Toggle completion status
+
+🗃️ Data persistence via Spring Data JPA
+
+🎨 Clean UI styled with Bootstrap 5
+
+Tech Stack: Java 17+, Spring Boot, JPA, MySQL, Thymeleaf
 
 ### 🔗 [Bookstore Management](https://github.com/rahulsingh98/bookstore-springboot)
 > Web-based bookstore system with cart and admin dashboard.
