@@ -27,16 +27,16 @@ Features: Login/Auth, Job Postings, Admin Panel.
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh98&layout=compact&theme=radical)
+![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetrajput001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrajput001&layout=compact&theme=radical)
 
 ---
 
 ## 💬 Let's Connect
 
 - 📧 Email: vishwjeetsingh83@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/rahulsingh98)
-- 🌐 [Portfolio](https://rahulsingh.dev) *(if available)*
+- 💼 [LinkedIn]()
+- 🌐 [Portfolio]() *(if available)*
 
 ---
 
