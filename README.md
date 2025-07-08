@@ -27,7 +27,7 @@ Features: Login/Auth, Job Postings, Admin Panel.
 
 ## 📊 GitHub Stats
 
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetrajput001&show_icons=true&theme=radical)
+![Vishwajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetrajput001&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrajput001&layout=compact&theme=radical)
 
 ---
