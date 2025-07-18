@@ -46,7 +46,7 @@ Tech Stack: Java 17+, Spring Boot, JPA, MySQL, Thymeleaf
 ## 💬 Let's Connect
 
 - 📧 Email: vishwjeetsingh83@gmail.com
-- 💼 [LinkedIn]()
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishwajeet-singh-844b5622a/)
 - 🌐 [Portfolio]() *(if available)*
 
 ---
