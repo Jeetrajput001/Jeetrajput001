@@ -16,20 +16,21 @@
 
 ## 📌 Featured Projects
 
-### 🔗 [ Spring Boot Todo App](https://github.com/Jeetrajput001/springboot-todo-app)
-> A responsive web-based Todo List application built using Spring Boot, Thymeleaf, and MySQL.
+### 🔗 Spring Boot Todo App
+ A responsive web-based Todo List application built using Spring Boot, Thymeleaf, and MySQL.
 
-Key Features:
+### 🔧 Features
+-✅ Add, update, and delete tasks
+-🔁 Toggle completion status
+-🗃️ Data persistence via Spring Data JPA
+-🎨 Clean UI styled with Bootstrap 5
 
-✅ Add, update, and delete tasks
+### 🧰Tech Stack
+`Java 17`, `Spring Boot`, `Spring Data JPA`, `MySQL`, `Thymeleaf`, `Bootstrap 5`, `Maven`
 
-🔁 Toggle completion status
+### 🔗 Project Links
+- GitHub Repo: [ Spring Boot Todo App](https://github.com/Jeetrajput001/springboot-todo-app)
 
-🗃️ Data persistence via Spring Data JPA
-
-🎨 Clean UI styled with Bootstrap 5
-
-Tech Stack: Java 17+, Spring Boot, JPA, MySQL, Thymeleaf
 
 ## 📚 Book Store Management System
 
