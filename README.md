@@ -31,8 +31,26 @@ Key Features:
 
 Tech Stack: Java 17+, Spring Boot, JPA, MySQL, Thymeleaf
 
-### 🔗 [Bookstore Management](https://github.com/rahulsingh98/bookstore-springboot)
-> Web-based bookstore system with cart and admin dashboard.
+## 📚 Book Store Management System
+
+A full-stack web application to manage books in a store using Java Spring Boot, MySQL, and Thymeleaf.
+
+### 🔧 Features
+- 📘 Register and manage books (CRUD)
+- 📂 Add books to personal collection
+- 🔍 Search books by title
+- 🧩 MVC Architecture using Spring Boot
+- 🛢️ MySQL database integration
+
+### 🧰 Tech Stack
+`Java 17`, `Spring Boot`, `Spring Data JPA`, `MySQL`, `Thymeleaf`, `Bootstrap 5`, `Maven`
+
+### 🔗 Project Links
+- GitHub Repo: [Book Store Repository](https://github.com/Jeetrajput001/book_store)
+
+---
+
+
 
 ---
 
